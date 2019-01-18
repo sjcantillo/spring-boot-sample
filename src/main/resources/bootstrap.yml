@@ -1,0 +1,7 @@
+spring:  
+  application:
+    name: sadr-service
+  cloud:
+    config:
+      failFast: false
+      uri: http://localhost:8888
